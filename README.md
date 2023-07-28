@@ -36,6 +36,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Special thanks to [Name of Team/Contributors] for their valuable contributions to this project.
 
 For more details and source code, visit the [GitHub Repository](https://github.com/yourusername/iot-attendance-management-system).
-
----
-*Note: This README is a general template. Please customize it based on your specific project details.*
